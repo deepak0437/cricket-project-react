@@ -38,6 +38,7 @@ background-image: linear-gradient(to right top, #94ac79, #78b08d, #5fb2a5, #54b1
       animation: shake 1.5s; 
       animation-iteration-count: infinite;
       animation: 1s ease-out 0s 1 slideInFromTop;
+      /* animation: 1s ease-out 0s 1 slideInFromTop; */
 }
 @keyframes slideInFromTop {
     0% {

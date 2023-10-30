@@ -41,13 +41,13 @@ function ResultSummary({data}) {
   <div class="card-header">
     <ul class="nav nav-tabs card-header-tabs">
       <li class="nav-item">
-        <a onClick={()=>setUpcomingMatch("preview")} class={upcomingMatch==="preview" ? "nav-link active" : "nav-link"} id='nav-link-upcoming-match' href=''>Previews</a>
+        <a onClick={()=>setUpcomingMatch("preview")} class={upcomingMatch==="preview" ? "nav-link active" : "nav-link"} id='nav-link-upcoming-match'>Previews</a>
       </li>
       <li class="nav-item">
-        <a onClick={()=>setUpcomingMatch("details")} class={upcomingMatch==="details" ? "nav-link active" : "nav-link"} id='nav-link-upcoming-match' href=''>Details</a>
+        <a onClick={()=>setUpcomingMatch("details")} class={upcomingMatch==="details" ? "nav-link active" : "nav-link"} id='nav-link-upcoming-match'>Details</a>
       </li>
       <li class="nav-item">
-        <a onClick={()=>setUpcomingMatch("squads")} class={upcomingMatch==="squads" ? "nav-link active" : "nav-link"} id='nav-link-upcoming-match' href=''>Squads</a>
+        <a onClick={()=>setUpcomingMatch("squads")} class={upcomingMatch==="squads" ? "nav-link active" : "nav-link"} id='nav-link-upcoming-match'>Squads</a>
       </li>
     </ul>
   </div>
@@ -163,7 +163,7 @@ function UpcomingMatchTeams(){
 
   return(
     <div>
-      <h1>Upcoming-Match Teams</h1>
+      <h1>Work IN Progress</h1>
     </div>
   )
 }
