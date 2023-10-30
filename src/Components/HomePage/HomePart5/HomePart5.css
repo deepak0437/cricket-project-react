@@ -1,0 +1,52 @@
+.home-part-5{
+    padding: 160px;
+    background: linear-gradient(to bottom , #dce3f8, #E2E2E2);;
+}
+
+.part-5-star-row{
+    align-items: center;
+}
+
+.part-5-col-1 img{
+    width: 90%;
+    height: 100%;
+}
+
+
+.part-5-col-2 h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.part-5-col-2 p{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.part-5-col-2 h5{
+    text-transform: uppercase;
+    font-size: 15px;
+    color: orange;
+    font-weight: 600;
+    align-items: center;
+}
+
+.part-5-col-2 h5 span{
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    align-items: center;
+}
+
+.part-5-col-2 img{
+    cursor: pointer;
+    float: right;
+}
+
+.show-more-less{
+    color: rgb(12, 112, 151);
+    cursor: pointer;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.ranking-player{
+    color: black;
+}

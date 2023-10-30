@@ -1,0 +1,33 @@
+let displayItems = [
+    "Sachin Tendulkar from India scored 34,357 runs in international cricket",
+    "Brian Lara scored 400* runs for the West Indies against England in 2004",
+    "AB de Villiers scored a century in just 31 balls against the West Indies in 2015",
+    "David Miller scored a century in 35 balls for South Africa against Bangladesh in 2017",
+    "Muttiah Muralitharan from Sri Lanka took 1,347 wickets",
+    "Virat Kohli scored the most centuries in T20 Internationals (24)",
+    "Dhoni holds the record for the most stumpings by a wicketkeeper in international cricket",
+    "Sehwag scored over 16,000 runs as an opening batsman in international cricket.",
+    "Ganguly led India to a historic Test series win in Pakistan in 2004",
+    "Martin Guptill scored 547 runs in the 2015 ICC Cricket World Cup",
+    "Ajantha Mendis reached 100 ODI wickets in 58 innings",
+    "Kumar Sangakkara scored 2,868 runs in international cricket in 2014",
+    "Alastair Cook played 159 consecutive Test matches for England",
+    "Sachin Tendulkar scored 100 international centuries",
+    "Shahid Afridi hit 476 sixes in international cricket",
+    "Jim Laker took 19 wickets for England against Australia in 1956",
+    "Shahid Afridi took 98 wickets in T20 internationals",
+    "Australia won 21 consecutive ODIs between January 2003 and May 2003",
+    "Kohli has several double centuries to his name in Test cricket",
+    "Yuvraj Singh scored a 12-ball fifty against England in 2007",
+    "Kohli holds the record for most centuries by an Indian Test captain.",
+    "Dhoni led the Indian cricket team in 331 consecutive ODIs.",
+    "Sehwag scored two triple centuries in Test cricket",
+    "Glenn McGrath took 26 wickets in the 2007 ICC Cricket World Cup",
+    "Dravid scored the most runs for India in Test matches played overseas",
+    "Sehwag scored the most runs in the fourth innings of Test matches for India",
+    "Dhoni holds the record for the most dismissals by a wicketkeeper in a single IPL season",
+    "Kohli scored four centuries in four consecutive ODIs against the West Indies in 2019",
+
+]
+
+export default displayItems;

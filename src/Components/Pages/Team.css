@@ -1,0 +1,17 @@
+.carousel{
+    padding: 5rem;
+
+}
+
+.box{
+    height: 300px;
+}
+
+.box h3{
+    text-align: center;
+}
+
+.slicks-dots li.slicks-active-button::before{
+    color: aquamarine;
+}
+

@@ -1,0 +1,82 @@
+.schedule-first{
+    /* background: #f59696; */
+    padding: 100px 0px;
+    padding-left: 150px;
+}
+.schedule-left{
+    width: 90%;
+}
+
+.schedule-left .world-cup-schedule{
+    text-align: center;
+    background-color: rgb(228, 56, 56);
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.display-schedule-matches{
+    align-items: center;
+    text-align: center;
+    padding: 10px 0px;
+}
+
+.display-schedule-matches h3{
+    color: rgb(228, 56, 56);
+    font-weight: bold;
+}
+
+
+.country-name-schedule{
+    font-size: 25px;
+    font-weight: 800;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.schedule-fields{
+    font-weight: 400;
+    color: rgb(84, 75, 75);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.schedule-right h3{
+    width: 70%;
+    padding: 7px 0px;
+    border-bottom: 1px solid rgb(225, 206, 206);
+}
+
+.schedule-right li{
+    margin: 14px 0px;
+    font-weight: 400;
+    color: rgb(84, 75, 75);
+    font-size: 17px;
+
+}
+
+.topleague-data{
+    padding: 15px 0px;
+    align-items: center;
+}
+
+.topleague-data .flag-images{
+    width: 30px;
+    margin-right: 15px;
+}
+
+.topleague-image-name{
+    font-weight: bold;
+    font-size: 15px;
+}

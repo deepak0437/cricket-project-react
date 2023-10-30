@@ -1,0 +1,89 @@
+
+.team-match-top .slick-slide div{
+    margin: 0px 8px;
+}
+
+.team-match-top .slick-slider{
+    padding: 0px 90px;
+}
+
+.team-match-top .slick-slider .slick-dots{
+    height: 0px;
+    width: 88%;
+}
+
+.team-match-top .slick-slider .slick-dots li button::before{
+    font-size: 10px;
+}
+
+.carousel-box-inner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    
+}
+
+.carousel-box{
+    border: 0.5px solid lightgray;
+    cursor: pointer;
+    background-color: rgb(250, 249, 246);
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    /* box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset; */
+    /* box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px; */
+    
+}
+
+.carousel-box:hover{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    transition: 1s ease-in-out;
+}
+
+.carousel-box .match-date{
+    text-align: center;
+}
+
+.carousel-box .teams-images{
+    width: 100px;
+    height: 90px;
+    border-radius: 50%;
+}
+
+
+.match-date{
+    text-align: center;
+    color: rgb(148, 134, 134);
+    font-weight: 600;
+    margin-top: -25px;
+}
+
+.carousel-box-inner .box-1 p{
+    font-weight: bold;
+    text-align: center;
+}
+
+.carousel-box-inner .box-3 p{
+    font-weight: bold;
+    text-align: center;
+}
+
+.team-match-top{
+    padding: 100px 0px;
+    animation: 1s ease-out 0s 1 slideInFromLeft;
+}
+
+@keyframes slideInFromLeft {
+    0% {
+      transform: translateX(-100%);
+    }
+    100% {
+      transform: translateX(0);
+    }
+  }
+
+.team-match-top h1{
+    font-size: 40px;
+    margin-left: 29px;
+    color: rgb(155, 143, 143);
+    font-weight: 300;
+}

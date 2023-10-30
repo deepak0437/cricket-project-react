@@ -1,0 +1,155 @@
+.home-part-4{
+    padding: 100px;
+    /* background-color: cadetblue; */
+}
+
+.latest-news-1 p{
+    align-items: center;
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.latest-news-2{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.latest-news-2 p{
+    padding: 2px 7px;
+    background-color: rgb(239, 238, 238);
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.latest-news-2 .active-latest{
+    background-color: rgb(228, 56, 56);
+    padding: 2px 7px;
+    font-weight: 500;
+    color: white;
+    cursor: pointer;
+}
+
+.latest-news-home{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid black;
+}
+
+.change-font-weight{
+    font-weight: 300;
+}
+
+
+.points-table-part4{
+    width: 90%;
+    padding-top: 40px;
+    
+}
+
+.points-table-part4 table{
+    /* box-shadow: 0 4px 8px 0 rgba(204, 150, 150, 0.2), 10px 16px 40px 0 rgba(20, 19, 19, 0.19); */
+    /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
+    /* box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px; */
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+
+.points-table-part4 table tr td{
+    padding: 15px 15px;
+    align-items: center;
+}
+
+.points-table-part4 table tr th{
+    padding: 15px 15px;
+    align-items: center;
+}
+
+.points-country-name{
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.points-style-for-font{
+    font-weight: 400;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(84, 68, 68);
+}
+
+
+
+
+
+
+
+
+
+
+
+.image-in-points-table{
+    width: 20px;
+    margin-right: 15px;
+}
+
+
+
+.home-part-4-right p{
+    width: 90%;
+    border-bottom: 1px solid black;
+    padding-bottom: 3px;
+    font-size: 40px;
+    font-weight: 500;
+    align-items: center;
+    padding-bottom: 15px;
+
+}
+
+
+
+
+
+
+
+
+
+
+.all-latest-news-comp{
+    padding: 50px 0px;
+}
+
+.stadium-images-comp{
+    height: 220px;
+}
+
+.all-latest-news-1 h2{
+    font-size: 25px;
+    word-spacing: 3px;
+    font-weight: 600;
+}
+
+.all-latest-news-1 .date-time-comp{
+    color: rgb(130, 123, 123);
+}
+
+.all-latest-news-1 .news-article{
+    color: rgb(66, 63, 63);
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    word-spacing: 1px;
+}
+
+.latest-item-data-array{
+    display: flex;
+    align-items: center;
+    padding-bottom: 10px;
+}
+
+.part-1-array-image{
+    width: 100px;
+    margin-right: 10px;
+}
+
+.part-2-array h2{
+    cursor: pointer;
+}

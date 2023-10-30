@@ -1,0 +1,60 @@
+
+
+.header{
+    padding: 185px 0px;
+    background-image: url('https://t3.ftcdn.net/jpg/02/92/38/22/360_F_292382234_vQsjNbVHkVx9maKuORNDp50L1hwYekeQ.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.header-content{
+    text-align: center;
+}
+
+.header-content h5{
+    font-size: 23px;
+    color: white;
+    font-weight: 500;
+
+}
+
+.header-content span{
+    font-size: 80px;
+    font-weight: bold;
+    color: whitesmoke;
+}
+
+.header-content h3{
+    font-size: 20px;
+    color: rgb(85, 129, 146);
+    background-color: white;
+    margin: 0px 200px;
+    border-radius: 10px;
+    font-weight: 500;
+}
+
+.header-content button{
+    margin-top: 50px;
+    padding: 10px 20px;
+    font-size: 20px;
+    text-transform: uppercase;
+    cursor: pointer;
+    color: whitesmoke;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(228, 56, 56);
+}
+
+.header-content i{
+    margin: 0px 10px;
+    font-size: 20px;
+}
+
+.header-content button:hover{
+    background-color: white;
+    transition: 1s ease-in-out;
+    color: rgb(228, 56, 56);
+}
+
+

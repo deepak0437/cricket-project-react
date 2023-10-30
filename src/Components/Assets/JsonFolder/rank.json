@@ -1,0 +1,1463 @@
+{
+    "data": [
+        {
+            "resource": "rankings",
+            "type": "TEST",
+            "position": null,
+            "points": null,
+            "rating": null,
+            "gender": "men",
+            "updated_at": "2023-10-03T08:18:25.000000Z",
+            "team": [
+                {
+                    "resource": "teams",
+                    "id": 10,
+                    "name": "India",
+                    "code": "IND",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/10/10.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 1,
+                    "updated_at": "2018-11-29T11:47:20.000000Z",
+                    "ranking": {
+                        "position": 1,
+                        "matches": 29,
+                        "points": 3434,
+                        "rating": 118
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 36,
+                    "name": "Australia",
+                    "code": "AUS",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/4/36.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 2,
+                    "updated_at": "2018-11-29T11:47:20.000000Z",
+                    "ranking": {
+                        "position": 2,
+                        "matches": 30,
+                        "points": 3534,
+                        "rating": 118
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 38,
+                    "name": "England",
+                    "code": "ENG",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/6/38.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 3,
+                    "updated_at": "2019-01-29T11:07:04.000000Z",
+                    "ranking": {
+                        "position": 3,
+                        "matches": 43,
+                        "points": 4941,
+                        "rating": 115
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 40,
+                    "name": "South Africa",
+                    "code": "ZAF",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/8/40.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 4,
+                    "updated_at": "2019-08-31T12:31:16.000000Z",
+                    "ranking": {
+                        "position": 4,
+                        "matches": 21,
+                        "points": 2182,
+                        "rating": 104
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 42,
+                    "name": "New Zealand",
+                    "code": "NZL",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/10/42.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 5,
+                    "updated_at": "2019-08-31T12:32:06.000000Z",
+                    "ranking": {
+                        "position": 5,
+                        "matches": 23,
+                        "points": 2291,
+                        "rating": 100
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 1,
+                    "name": "Pakistan",
+                    "code": "PAK",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/1/1.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 6,
+                    "updated_at": "2018-11-29T11:47:20.000000Z",
+                    "ranking": {
+                        "position": 6,
+                        "matches": 25,
+                        "points": 2304,
+                        "rating": 92
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 39,
+                    "name": "Sri Lanka",
+                    "code": "LKA",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/7/39.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 7,
+                    "updated_at": "2019-08-31T12:20:09.000000Z",
+                    "ranking": {
+                        "position": 7,
+                        "matches": 27,
+                        "points": 2123,
+                        "rating": 79
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 43,
+                    "name": "West Indies",
+                    "code": "WI",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/11/43.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 8,
+                    "updated_at": "2018-11-29T11:47:20.000000Z",
+                    "ranking": {
+                        "position": 8,
+                        "matches": 28,
+                        "points": 2154,
+                        "rating": 77
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 37,
+                    "name": "Bangladesh",
+                    "code": "BGD",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/5/37.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 9,
+                    "updated_at": "2018-11-29T11:47:20.000000Z",
+                    "ranking": {
+                        "position": 9,
+                        "matches": 19,
+                        "points": 873,
+                        "rating": 46
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 41,
+                    "name": "Zimbabwe",
+                    "code": "ZIM",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/9/41.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 10,
+                    "updated_at": "2019-06-17T14:45:03.000000Z",
+                    "ranking": {
+                        "position": 10,
+                        "matches": 7,
+                        "points": 223,
+                        "rating": 32
+                    }
+                }
+            ]
+        },
+        {
+            "resource": "rankings",
+            "type": "ODI",
+            "position": null,
+            "points": null,
+            "rating": null,
+            "gender": "men",
+            "updated_at": "2023-09-29T20:27:06.000000Z",
+            "team": [
+                {
+                    "resource": "teams",
+                    "id": 10,
+                    "name": "India",
+                    "code": "IND",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/10/10.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 1,
+                    "updated_at": "2018-11-29T11:47:20.000000Z",
+                    "ranking": {
+                        "position": 1,
+                        "matches": 44,
+                        "points": 5085,
+                        "rating": 116
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 1,
+                    "name": "Pakistan",
+                    "code": "PAK",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/1/1.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 2,
+                    "updated_at": "2018-11-29T11:47:20.000000Z",
+                    "ranking": {
+                        "position": 2,
+                        "matches": 27,
+                        "points": 3102,
+                        "rating": 115
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 36,
+                    "name": "Australia",
+                    "code": "AUS",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/4/36.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 3,
+                    "updated_at": "2018-11-29T11:47:20.000000Z",
+                    "ranking": {
+                        "position": 3,
+                        "matches": 31,
+                        "points": 3464,
+                        "rating": 112
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 40,
+                    "name": "South Africa",
+                    "code": "ZAF",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/8/40.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 4,
+                    "updated_at": "2019-08-31T12:31:16.000000Z",
+                    "ranking": {
+                        "position": 4,
+                        "matches": 24,
+                        "points": 2551,
+                        "rating": 106
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 38,
+                    "name": "England",
+                    "code": "ENG",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/6/38.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 5,
+                    "updated_at": "2019-01-29T11:07:04.000000Z",
+                    "ranking": {
+                        "position": 5,
+                        "matches": 29,
+                        "points": 3057,
+                        "rating": 105
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 42,
+                    "name": "New Zealand",
+                    "code": "NZL",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/10/42.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 6,
+                    "updated_at": "2019-08-31T12:32:06.000000Z",
+                    "ranking": {
+                        "position": 6,
+                        "matches": 33,
+                        "points": 3397,
+                        "rating": 103
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 39,
+                    "name": "Sri Lanka",
+                    "code": "LKA",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/7/39.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 7,
+                    "updated_at": "2019-08-31T12:20:09.000000Z",
+                    "ranking": {
+                        "position": 7,
+                        "matches": 38,
+                        "points": 3512,
+                        "rating": 92
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 37,
+                    "name": "Bangladesh",
+                    "code": "BGD",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/5/37.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 8,
+                    "updated_at": "2018-11-29T11:47:20.000000Z",
+                    "ranking": {
+                        "position": 8,
+                        "matches": 35,
+                        "points": 3209,
+                        "rating": 92
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 46,
+                    "name": "Afghanistan",
+                    "code": "AFG",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/14/46.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 9,
+                    "updated_at": "2019-02-19T06:30:02.000000Z",
+                    "ranking": {
+                        "position": 9,
+                        "matches": 21,
+                        "points": 1687,
+                        "rating": 80
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 43,
+                    "name": "West Indies",
+                    "code": "WI",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/11/43.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 10,
+                    "updated_at": "2018-11-29T11:47:20.000000Z",
+                    "ranking": {
+                        "position": 10,
+                        "matches": 38,
+                        "points": 2582,
+                        "rating": 68
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 41,
+                    "name": "Zimbabwe",
+                    "code": "ZIM",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/9/41.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 11,
+                    "updated_at": "2019-06-17T14:45:03.000000Z",
+                    "ranking": {
+                        "position": 11,
+                        "matches": 30,
+                        "points": 1641,
+                        "rating": 55
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 44,
+                    "name": "Scotland",
+                    "code": "SCO",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/12/44.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 12,
+                    "updated_at": "2019-02-13T16:25:03.000000Z",
+                    "ranking": {
+                        "position": 12,
+                        "matches": 33,
+                        "points": 1662,
+                        "rating": 50
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 100,
+                    "name": "Ireland",
+                    "code": "IRE",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/4/100.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 13,
+                    "updated_at": "2019-02-08T11:22:03.000000Z",
+                    "ranking": {
+                        "position": 13,
+                        "matches": 25,
+                        "points": 1083,
+                        "rating": 43
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 146,
+                    "name": "Netherlands",
+                    "code": "NLD",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/18/146.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 14,
+                    "updated_at": "2019-02-13T16:25:02.000000Z",
+                    "ranking": {
+                        "position": 14,
+                        "matches": 28,
+                        "points": 1044,
+                        "rating": 37
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 152,
+                    "name": "Nepal",
+                    "code": "NPL",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/24/152.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 15,
+                    "updated_at": "2020-02-08T15:54:07.000000Z",
+                    "ranking": {
+                        "position": 15,
+                        "matches": 42,
+                        "points": 1446,
+                        "rating": 34
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 293,
+                    "name": "Namibia",
+                    "code": "NAM",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/5/293.png",
+                    "country_id": 190324,
+                    "national_team": false,
+                    "position": 16,
+                    "updated_at": "2019-10-28T08:40:04.000000Z",
+                    "ranking": {
+                        "position": 16,
+                        "matches": 28,
+                        "points": 813,
+                        "rating": 29
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 483,
+                    "name": "United States of America",
+                    "code": "USA",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/3/483.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 17,
+                    "updated_at": "2019-08-28T14:40:17.000000Z",
+                    "ranking": {
+                        "position": 17,
+                        "matches": 31,
+                        "points": 808,
+                        "rating": 26
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 155,
+                    "name": "Oman",
+                    "code": "OMN",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/27/155.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 18,
+                    "updated_at": "2019-02-08T11:22:03.000000Z",
+                    "ranking": {
+                        "position": 18,
+                        "matches": 24,
+                        "points": 525,
+                        "rating": 22
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 45,
+                    "name": "United Arab",
+                    "code": "UAE",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/13/45.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 19,
+                    "updated_at": "2019-10-28T18:35:02.000000Z",
+                    "ranking": {
+                        "position": 19,
+                        "matches": 41,
+                        "points": 617,
+                        "rating": 15
+                    }
+                }
+            ]
+        },
+        {
+            "resource": "rankings",
+            "type": "T20I",
+            "position": null,
+            "points": null,
+            "rating": null,
+            "gender": "men",
+            "updated_at": "2023-09-30T02:40:47.000000Z",
+            "team": [
+                {
+                    "resource": "teams",
+                    "id": 10,
+                    "name": "India",
+                    "code": "IND",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/10/10.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 1,
+                    "updated_at": "2018-11-29T11:47:20.000000Z",
+                    "ranking": {
+                        "position": 1,
+                        "matches": 59,
+                        "points": 15589,
+                        "rating": 264
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 38,
+                    "name": "England",
+                    "code": "ENG",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/6/38.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 2,
+                    "updated_at": "2019-01-29T11:07:04.000000Z",
+                    "ranking": {
+                        "position": 2,
+                        "matches": 43,
+                        "points": 11133,
+                        "rating": 259
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 42,
+                    "name": "New Zealand",
+                    "code": "NZL",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/10/42.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 3,
+                    "updated_at": "2019-08-31T12:32:06.000000Z",
+                    "ranking": {
+                        "position": 3,
+                        "matches": 53,
+                        "points": 13534,
+                        "rating": 255
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 1,
+                    "name": "Pakistan",
+                    "code": "PAK",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/1/1.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 4,
+                    "updated_at": "2018-11-29T11:47:20.000000Z",
+                    "ranking": {
+                        "position": 4,
+                        "matches": 50,
+                        "points": 12719,
+                        "rating": 254
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 36,
+                    "name": "Australia",
+                    "code": "AUS",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/4/36.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 5,
+                    "updated_at": "2018-11-29T11:47:20.000000Z",
+                    "ranking": {
+                        "position": 5,
+                        "matches": 32,
+                        "points": 7984,
+                        "rating": 250
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 40,
+                    "name": "South Africa",
+                    "code": "ZAF",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/8/40.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 6,
+                    "updated_at": "2019-08-31T12:31:16.000000Z",
+                    "ranking": {
+                        "position": 6,
+                        "matches": 35,
+                        "points": 8679,
+                        "rating": 248
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 43,
+                    "name": "West Indies",
+                    "code": "WI",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/11/43.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 7,
+                    "updated_at": "2018-11-29T11:47:20.000000Z",
+                    "ranking": {
+                        "position": 7,
+                        "matches": 39,
+                        "points": 9463,
+                        "rating": 243
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 39,
+                    "name": "Sri Lanka",
+                    "code": "LKA",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/7/39.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 8,
+                    "updated_at": "2019-08-31T12:20:09.000000Z",
+                    "ranking": {
+                        "position": 8,
+                        "matches": 37,
+                        "points": 8774,
+                        "rating": 237
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 37,
+                    "name": "Bangladesh",
+                    "code": "BGD",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/5/37.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 9,
+                    "updated_at": "2018-11-29T11:47:20.000000Z",
+                    "ranking": {
+                        "position": 9,
+                        "matches": 41,
+                        "points": 9192,
+                        "rating": 224
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 46,
+                    "name": "Afghanistan",
+                    "code": "AFG",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/14/46.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 10,
+                    "updated_at": "2019-02-19T06:30:02.000000Z",
+                    "ranking": {
+                        "position": 10,
+                        "matches": 29,
+                        "points": 6260,
+                        "rating": 216
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 41,
+                    "name": "Zimbabwe",
+                    "code": "ZIM",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/9/41.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 11,
+                    "updated_at": "2019-06-17T14:45:03.000000Z",
+                    "ranking": {
+                        "position": 11,
+                        "matches": 36,
+                        "points": 7087,
+                        "rating": 197
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 100,
+                    "name": "Ireland",
+                    "code": "IRE",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/4/100.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 12,
+                    "updated_at": "2019-02-08T11:22:03.000000Z",
+                    "ranking": {
+                        "position": 12,
+                        "matches": 44,
+                        "points": 8487,
+                        "rating": 193
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 293,
+                    "name": "Namibia",
+                    "code": "NAM",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/5/293.png",
+                    "country_id": 190324,
+                    "national_team": false,
+                    "position": 13,
+                    "updated_at": "2019-10-28T08:40:04.000000Z",
+                    "ranking": {
+                        "position": 13,
+                        "matches": 17,
+                        "points": 3228,
+                        "rating": 190
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 44,
+                    "name": "Scotland",
+                    "code": "SCO",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/12/44.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 14,
+                    "updated_at": "2019-02-13T16:25:03.000000Z",
+                    "ranking": {
+                        "position": 14,
+                        "matches": 18,
+                        "points": 3142,
+                        "rating": 190
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 146,
+                    "name": "Netherlands",
+                    "code": "NLD",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/18/146.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 15,
+                    "updated_at": "2019-02-13T16:25:02.000000Z",
+                    "ranking": {
+                        "position": 15,
+                        "matches": 19,
+                        "points": 3445,
+                        "rating": 181
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 152,
+                    "name": "Nepal",
+                    "code": "NPL",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/24/152.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 16,
+                    "updated_at": "2020-02-08T15:54:07.000000Z",
+                    "ranking": {
+                        "position": 16,
+                        "matches": 15,
+                        "points": 2679,
+                        "rating": 179
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 45,
+                    "name": "United Arab",
+                    "code": "UAE",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/13/45.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 17,
+                    "updated_at": "2019-10-28T18:35:02.000000Z",
+                    "ranking": {
+                        "position": 17,
+                        "matches": 26,
+                        "points": 4591,
+                        "rating": 177
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 296,
+                    "name": "Papua New Guinea",
+                    "code": "PNG",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/8/296.png",
+                    "country_id": 190324,
+                    "national_team": false,
+                    "position": 18,
+                    "updated_at": "2019-10-30T06:43:02.000000Z",
+                    "ranking": {
+                        "position": 18,
+                        "matches": 22,
+                        "points": 3173,
+                        "rating": 144
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 140,
+                    "name": "Canada",
+                    "code": "CAN",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/12/140.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 19,
+                    "updated_at": "2019-11-05T09:22:02.000000Z",
+                    "ranking": {
+                        "position": 19,
+                        "matches": 13,
+                        "points": 1871,
+                        "rating": 144
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 155,
+                    "name": "Oman",
+                    "code": "OMN",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/27/155.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 20,
+                    "updated_at": "2019-02-08T11:22:03.000000Z",
+                    "ranking": {
+                        "position": 20,
+                        "matches": 19,
+                        "points": 2723,
+                        "rating": 143
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 115,
+                    "name": "Hong Kong",
+                    "code": "HK",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/19/115.png",
+                    "country_id": 64306,
+                    "national_team": true,
+                    "position": 21,
+                    "updated_at": "2019-10-30T06:40:02.000000Z",
+                    "ranking": {
+                        "position": 21,
+                        "matches": 19,
+                        "points": 2530,
+                        "rating": 133
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 483,
+                    "name": "United States of America",
+                    "code": "USA",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/3/483.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 22,
+                    "updated_at": "2019-08-28T14:40:17.000000Z",
+                    "ranking": {
+                        "position": 22,
+                        "matches": 9,
+                        "points": 1183,
+                        "rating": 131
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 678,
+                    "name": "Uganda",
+                    "code": "UGA",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/6/678.png",
+                    "country_id": 4125,
+                    "national_team": false,
+                    "position": 23,
+                    "updated_at": "2020-02-12T09:44:02.000000Z",
+                    "ranking": {
+                        "position": 23,
+                        "matches": 54,
+                        "points": 7043,
+                        "rating": 130
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 396,
+                    "name": "Jersey",
+                    "code": "JEY",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/12/396.png",
+                    "country_id": 190324,
+                    "national_team": false,
+                    "position": 24,
+                    "updated_at": "2019-05-27T19:16:17.000000Z",
+                    "ranking": {
+                        "position": 24,
+                        "matches": 19,
+                        "points": 2427,
+                        "rating": 128
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 402,
+                    "name": "Malaysia",
+                    "code": "MYS",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/18/402.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 25,
+                    "updated_at": "2020-02-20T11:23:02.000000Z",
+                    "ranking": {
+                        "position": 25,
+                        "matches": 36,
+                        "points": 4537,
+                        "rating": 126
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 423,
+                    "name": "Qatar",
+                    "code": "QAT",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/7/423.png",
+                    "country_id": 74505,
+                    "national_team": true,
+                    "position": 26,
+                    "updated_at": "2020-02-12T09:44:02.000000Z",
+                    "ranking": {
+                        "position": 26,
+                        "matches": 13,
+                        "points": 1568,
+                        "rating": 121
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 420,
+                    "name": "Kuwait",
+                    "code": "KWT",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/4/420.png",
+                    "country_id": 21462,
+                    "national_team": true,
+                    "position": 27,
+                    "updated_at": "2019-07-05T21:58:31.000000Z",
+                    "ranking": {
+                        "position": 27,
+                        "matches": 20,
+                        "points": 2388,
+                        "rating": 119
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 2057,
+                    "name": "Bahrain",
+                    "code": "BHR",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/9/2057.png",
+                    "country_id": 190324,
+                    "national_team": false,
+                    "position": 28,
+                    "updated_at": "2022-01-29T11:56:14.000000Z",
+                    "ranking": {
+                        "position": 28,
+                        "matches": 32,
+                        "points": 3518,
+                        "rating": 110
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 143,
+                    "name": "Kenya",
+                    "code": "KEN",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/15/143.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 29,
+                    "updated_at": "2018-11-13T21:14:56.000000Z",
+                    "ranking": {
+                        "position": 29,
+                        "matches": 30,
+                        "points": 3137,
+                        "rating": 105
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 329,
+                    "name": "Italy",
+                    "code": "ITA",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/9/329.png",
+                    "country_id": 251,
+                    "national_team": true,
+                    "position": 30,
+                    "updated_at": "2019-04-03T11:09:15.000000Z",
+                    "ranking": {
+                        "position": 30,
+                        "matches": 17,
+                        "points": 1712,
+                        "rating": 101
+                    }
+                }
+            ]
+        },
+        {
+            "resource": "rankings",
+            "type": "TEST",
+            "position": null,
+            "points": null,
+            "rating": null,
+            "gender": "women",
+            "updated_at": "2019-02-26T09:31:03.000000Z",
+            "team": []
+        },
+        {
+            "resource": "rankings",
+            "type": "ODI",
+            "position": null,
+            "points": null,
+            "rating": null,
+            "gender": "women",
+            "updated_at": "2023-09-30T02:43:54.000000Z",
+            "team": [
+                {
+                    "resource": "teams",
+                    "id": 77,
+                    "name": "Australia W",
+                    "code": "AUS",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/13/77.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 1,
+                    "updated_at": "2020-03-06T06:01:04.000000Z",
+                    "ranking": {
+                        "position": 1,
+                        "matches": 26,
+                        "points": 4290,
+                        "rating": 165
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 72,
+                    "name": "England W",
+                    "code": "ENG",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/8/72.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 2,
+                    "updated_at": "2018-11-13T21:17:59.000000Z",
+                    "ranking": {
+                        "position": 2,
+                        "matches": 33,
+                        "points": 4145,
+                        "rating": 126
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 73,
+                    "name": "South Africa W",
+                    "code": "SAW",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/9/73.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 3,
+                    "updated_at": "2020-02-13T11:32:02.000000Z",
+                    "ranking": {
+                        "position": 3,
+                        "matches": 30,
+                        "points": 3533,
+                        "rating": 118
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 78,
+                    "name": "India W",
+                    "code": "IND",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/14/78.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 4,
+                    "updated_at": "2020-03-06T06:01:04.000000Z",
+                    "ranking": {
+                        "position": 4,
+                        "matches": 30,
+                        "points": 3039,
+                        "rating": 101
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 79,
+                    "name": "New Zealand W",
+                    "code": "NZ",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/15/79.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 5,
+                    "updated_at": "2018-11-13T21:18:55.000000Z",
+                    "ranking": {
+                        "position": 5,
+                        "matches": 29,
+                        "points": 2755,
+                        "rating": 95
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 75,
+                    "name": "West Indies W",
+                    "code": "WI",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/11/75.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 6,
+                    "updated_at": "2020-02-28T12:37:07.000000Z",
+                    "ranking": {
+                        "position": 6,
+                        "matches": 29,
+                        "points": 2743,
+                        "rating": 95
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 76,
+                    "name": "Bangladesh W",
+                    "code": "BAN",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/12/76.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 7,
+                    "updated_at": "2020-02-24T17:25:03.000000Z",
+                    "ranking": {
+                        "position": 7,
+                        "matches": 17,
+                        "points": 1284,
+                        "rating": 76
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 540,
+                    "name": "Thailand W",
+                    "code": "THA",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/28/540.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 8,
+                    "updated_at": "2020-02-23T20:27:06.000000Z",
+                    "ranking": {
+                        "position": 8,
+                        "matches": 13,
+                        "points": 883,
+                        "rating": 68
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 74,
+                    "name": "Sri Lanka W",
+                    "code": "LKA",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/10/74.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 9,
+                    "updated_at": "2020-02-13T11:32:02.000000Z",
+                    "ranking": {
+                        "position": 9,
+                        "matches": 14,
+                        "points": 936,
+                        "rating": 67
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 80,
+                    "name": "Pakistan W",
+                    "code": "PAK",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/16/80.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 10,
+                    "updated_at": "2020-02-26T12:38:03.000000Z",
+                    "ranking": {
+                        "position": 10,
+                        "matches": 30,
+                        "points": 1933,
+                        "rating": 64
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 81,
+                    "name": "Ireland W",
+                    "code": "IRE",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/17/81.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 11,
+                    "updated_at": "2018-11-13T21:18:14.000000Z",
+                    "ranking": {
+                        "position": 11,
+                        "matches": 18,
+                        "points": 660,
+                        "rating": 37
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 1838,
+                    "name": "Netherlands W",
+                    "code": "NLD",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/14/1838.png",
+                    "country_id": 190324,
+                    "national_team": false,
+                    "position": 12,
+                    "updated_at": "2023-08-17T11:51:34.000000Z",
+                    "ranking": {
+                        "position": 12,
+                        "matches": 11,
+                        "points": 89,
+                        "rating": 8
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 1620,
+                    "name": "Zimbabwe W",
+                    "code": "ZIM",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/20/1620.png",
+                    "country_id": 190324,
+                    "national_team": false,
+                    "position": 13,
+                    "updated_at": "2021-01-26T11:12:49.000000Z",
+                    "ranking": {
+                        "position": 13,
+                        "matches": 11,
+                        "points": 0,
+                        "rating": 0
+                    }
+                }
+            ]
+        },
+        {
+            "resource": "rankings",
+            "type": "T20I",
+            "position": null,
+            "points": null,
+            "rating": null,
+            "gender": "women",
+            "updated_at": "2023-09-30T02:46:03.000000Z",
+            "team": [
+                {
+                    "resource": "teams",
+                    "id": 77,
+                    "name": "Australia W",
+                    "code": "AUS",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/13/77.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 1,
+                    "updated_at": "2020-03-06T06:01:04.000000Z",
+                    "ranking": {
+                        "position": 1,
+                        "matches": 33,
+                        "points": 9860,
+                        "rating": 299
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 72,
+                    "name": "England W",
+                    "code": "ENG",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/8/72.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 2,
+                    "updated_at": "2018-11-13T21:17:59.000000Z",
+                    "ranking": {
+                        "position": 2,
+                        "matches": 41,
+                        "points": 11526,
+                        "rating": 281
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 79,
+                    "name": "New Zealand W",
+                    "code": "NZ",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/15/79.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 3,
+                    "updated_at": "2018-11-13T21:18:55.000000Z",
+                    "ranking": {
+                        "position": 3,
+                        "matches": 31,
+                        "points": 8247,
+                        "rating": 266
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 78,
+                    "name": "India W",
+                    "code": "IND",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/14/78.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 4,
+                    "updated_at": "2020-03-06T06:01:04.000000Z",
+                    "ranking": {
+                        "position": 4,
+                        "matches": 51,
+                        "points": 13458,
+                        "rating": 264
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 73,
+                    "name": "South Africa W",
+                    "code": "SAW",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/9/73.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 5,
+                    "updated_at": "2020-02-13T11:32:02.000000Z",
+                    "ranking": {
+                        "position": 5,
+                        "matches": 30,
+                        "points": 6872,
+                        "rating": 229
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 75,
+                    "name": "West Indies W",
+                    "code": "WI",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/11/75.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 6,
+                    "updated_at": "2020-02-28T12:37:07.000000Z",
+                    "ranking": {
+                        "position": 6,
+                        "matches": 30,
+                        "points": 6872,
+                        "rating": 229
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 80,
+                    "name": "Pakistan W",
+                    "code": "PAK",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/16/80.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 7,
+                    "updated_at": "2020-02-26T12:38:03.000000Z",
+                    "ranking": {
+                        "position": 7,
+                        "matches": 35,
+                        "points": 7802,
+                        "rating": 223
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 74,
+                    "name": "Sri Lanka W",
+                    "code": "LKA",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/10/74.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 8,
+                    "updated_at": "2020-02-13T11:32:02.000000Z",
+                    "ranking": {
+                        "position": 8,
+                        "matches": 39,
+                        "points": 8609,
+                        "rating": 221
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 76,
+                    "name": "Bangladesh W",
+                    "code": "BAN",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/12/76.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 9,
+                    "updated_at": "2020-02-24T17:25:03.000000Z",
+                    "ranking": {
+                        "position": 9,
+                        "matches": 34,
+                        "points": 6585,
+                        "rating": 194
+                    }
+                },
+                {
+                    "resource": "teams",
+                    "id": 81,
+                    "name": "Ireland W",
+                    "code": "IRE",
+                    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/17/81.png",
+                    "country_id": 190324,
+                    "national_team": true,
+                    "position": 10,
+                    "updated_at": "2018-11-13T21:18:14.000000Z",
+                    "ranking": {
+                        "position": 10,
+                        "matches": 32,
+                        "points": 5694,
+                        "rating": 178
+                    }
+                }
+            ]
+        }
+    ]
+}

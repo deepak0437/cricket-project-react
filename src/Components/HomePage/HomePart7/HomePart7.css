@@ -1,0 +1,79 @@
+.flag-images-part-7{
+    width: 70px;
+    border-radius: 50%;
+}
+
+.part-7-ticket{
+    background-color: #171717;
+    padding: 100px 50px;
+    align-items: center;
+    margin: 0px;
+}
+
+
+.banner-image-name{
+    display: flex;
+    align-items: center;
+    /* justify-content: space-around; */
+    justify-content: space-evenly;
+    border-right: 1px solid rgb(64, 58, 58);
+}
+
+.banner-image-name p{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 17px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-top: 5px;
+    /* font */
+
+}
+
+.banner-image-name span{
+    color: whitesmoke;
+    font-size: 30px;
+}
+
+
+.second-part-7-final h5{
+    font-size: 30px;
+    font-weight: bold;
+    color: lightgray;
+}
+
+.second-part-7-final p{
+    color: white;
+    font-size: 17pxpx;
+}
+
+.part-7-button button{
+    background-color: rgb(228, 56, 56);
+    border: none;
+    color: lightgray;
+    padding: 12px 50px;
+    border-radius: 6px;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+
+
+.timer-app{
+    display: flex;
+    border-left: 1px solid rgb(64, 58, 58);
+    justify-content: space-evenly;
+    color: lightgray;
+    padding: 10px 0px;
+    /* justify-content: space-around; */
+}
+
+.timer-app h5{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.border-timer-app{
+    border-right: 1px solid rgb(64, 58, 58);
+    padding-right: 15px;
+}

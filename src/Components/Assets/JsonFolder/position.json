@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "resource": "positions",
+            "id": 1,
+            "name": "Batsman"
+        },
+        {
+            "resource": "positions",
+            "id": 2,
+            "name": "Bowler"
+        },
+        {
+            "resource": "positions",
+            "id": 3,
+            "name": "Wicketkeeper"
+        },
+        {
+            "resource": "positions",
+            "id": 4,
+            "name": "Allrounder"
+        },
+        {
+            "resource": "positions",
+            "id": 5,
+            "name": "Top Order Batter"
+        },
+        {
+            "resource": "positions",
+            "id": 8,
+            "name": "Middle Order Batter"
+        },
+        {
+            "resource": "positions",
+            "id": 11,
+            "name": "Bowling Allrounder"
+        },
+        {
+            "resource": "positions",
+            "id": 14,
+            "name": "Batting Allrounder"
+        }
+    ]
+}

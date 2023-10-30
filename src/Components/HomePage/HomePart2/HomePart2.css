@@ -1,0 +1,65 @@
+
+
+.banner-page{
+    display: flex;
+    /* justify-content: space-around; */
+}
+
+.banner-page .columns-1{
+    width: 20%;
+    background: rgb(228, 56, 56);
+    padding: 2px 50px;
+    color: whitesmoke;
+    align-items: center;
+    text-align: center;
+    padding-top: 13px;
+}
+
+.banner-page .columns-1 p{
+    font-size: 20px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.banner-page .columns-1 i{
+    justify-content: center;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+
+.banner-page-right{
+    display: flex;
+    background-color: black;
+    width: 90%;
+    align-items: center;
+    padding-top: 13px;
+}
+
+.banner-page-right .columns-2{
+    width: 95%;
+    margin-left: 30px;
+}
+
+.banner-page-right .columns-2 p{
+    font-size: 16px;
+    color: aliceblue;
+    font-weight: 500;
+    width: 100%;
+}
+
+.banner-page-right .columns-3{
+    width: 10%;
+    position: sticky;
+}
+
+.banner-page-right .columns-3 p{
+    color: aliceblue;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.banner-page-right .columns-3 p i{
+    margin: 0px 5px;
+    cursor: pointer;
+}

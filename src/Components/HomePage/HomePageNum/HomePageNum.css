@@ -1,0 +1,18 @@
+.home-page-num{
+    padding: 100px;
+    text-align: center;
+    background-color: #090101;
+}
+
+.home-page-num h1{
+    font-size: 70px;
+    font-weight: 100;
+    color: lightgray;
+    text-shadow: -3px 14px 10px rgba(128, 0, 0, 0.81);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.home-page-num p{
+    color: rgb(228, 56, 56);
+    margin-top: 10px;
+}
