@@ -21,6 +21,10 @@
     border-right: 1px solid black;
 }
 
+.navbar-item-right a{
+    color: black;
+}
+
 .navbar-item-right i{
     margin: 0px 10px;
     font-size: 16px;

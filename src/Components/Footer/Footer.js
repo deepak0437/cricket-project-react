@@ -16,11 +16,11 @@ function Footer() {
             <p>40th street, BTM 1<sup>st</sup> Stage, </p>
             <p>Bengaluru Karnatka</p><br />
             <div className="media-icons">
-          <a href=""><i className="fab fa-facebook-f"></i></a>
-          <a href=""><i className="fab fa-twitter"></i></a>
-          <a href=""><i className="fab fa-instagram"></i></a>
-          <a href=""><i className="fab fa-linkedin-in"></i></a>
-          <a href=""><i className="fab fa-youtube"></i></a>
+          <a href="https://github.com/deepak0437/"><i className="fab fa-github"></i></a>
+          <a href="https://x.com/Deepak_0437/"><i className="fab fa-twitter"></i></a>
+          <a href="https://www.instagram.com/kumardeepak0437/"><i className="fab fa-instagram"></i></a>
+          <a href="https://www.linkedin.com/in/deepak-kumar-a7137b189/"><i className="fab fa-linkedin-in"></i></a>
+          <a href="https://youtube.com/@DeepakKumar-lm5rd?si=hak4gjAB7JGF6YZQ"><i className="fab fa-youtube"></i></a>
         </div> 
         </div>
         <div className="footer-part-2">

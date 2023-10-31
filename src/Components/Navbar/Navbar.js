@@ -32,11 +32,11 @@ function Navbar() {
                 <span>Contact</span>
           </div>
           <div className="col-12 col-sm-2 navbar-item-right">
-            <i className="fa fa-whatsapp"></i>
-            <i className="fa fa-twitter"></i>
-            <i className="fa fa-facebook"></i>
-            <i className="fa fa-linkedin"></i>
-            <i className="fa fa-instagram"></i>
+            <a href="https://wa.me/919097153288/text=Hi"><i className="fa fa-whatsapp"></i></a>
+            <a href="https://x.com/Deepak_0437"><i className="fa fa-twitter"></i></a>
+            <a href="https://github.com/deepak0437"><i className="fa fa-github"></i></a>
+            <a href="https://www.linkedin.com/in/deepak-kumar-a7137b189/"><i className="fa fa-linkedin"></i></a>
+            <a href="https://www.instagram.com/kumardeepak0437/"><i className="fa fa-instagram"></i></a>
           </div>
         </div>
 
