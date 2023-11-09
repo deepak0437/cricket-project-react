@@ -52,7 +52,7 @@ function Navbar() {
             <ul>
             {/* className={menu === "sports" ? 'navbar-try-bolck' : ''} */}
               <li onClick={() => {setMenu("teams")}} ><NavLink style={{textDecoration:'none', color:'white'}} to='/teams' className={({ isActive }) => isActive ? "navbar-try-bolck" : ""}>TEAMS</NavLink></li>
-              <li onClick={() => {setMenu("sports")}} ><NavLink style={{textDecoration:'none', color:'white'}} to='/sports' className={({ isActive }) => isActive ? "navbar-try-bolck" : ""}>SPORT</NavLink></li>
+              <li onClick={() => {setMenu("players")}} ><NavLink style={{textDecoration:'none', color:'white'}} to='/players' className={({ isActive }) => isActive ? "navbar-try-bolck" : ""}>PLAYERS</NavLink></li>
               <li onClick={() => {setMenu("results")}} ><NavLink style={{textDecoration:'none', color:'white'}} to='/results' className={({ isActive }) => isActive ? "navbar-try-bolck" : ""}>RESULTS</NavLink></li>
               <li onClick={() => {setMenu("matches")}} ><NavLink style={{textDecoration:'none', color:'white'}} to='/matches' className={({ isActive }) => isActive ? "navbar-try-bolck" : ""}>MATCHES</NavLink></li>
               <li onClick={() => {setMenu("venue")}} ><NavLink style={{textDecoration:'none', color:'white'}} to='/venue' className={({ isActive }) => isActive ? "navbar-try-bolck" : ""}>VENUE</NavLink></li>

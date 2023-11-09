@@ -49,7 +49,7 @@ class PauseOnHover extends Component{
   }
   
   
-  function MatchSummary({data }){
+  function MatchSummary({ data }){
     const teamDetails1 = teams.filter(obj => data.localteam_id===obj.id)[0];
     const teamDetails2 = teams.filter(obj => data.visitorteam_id===obj.id)[0];
 
@@ -57,7 +57,8 @@ class PauseOnHover extends Component{
     // onClick={()=>  toggleResults(()=>true)}   //toggleResults
 
     function handleUpcomingMatch(){
-        navigation(`/upcoming-matches`,{state:{data:data}})
+      const name = (teamDetails1.code+"-"+teamDetails2.code).toLowerCase()
+        navigation(`/matches/${name}`,{state:{data:data}})
         window.scrollTo(0,0)
     }
 

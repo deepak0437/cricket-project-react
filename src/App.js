@@ -8,9 +8,10 @@ import Home from './Components/Pages/Home'
 import Venue from './Components/Pages/Venue'
 import Schedule from './Components/Pages/Schedule'
 import Result from './Components/Pages/Result'
-import Sports from './Components/Pages/Sports'
+import Players from './Components/Pages/Players'
 import Team from './Components/Pages/Team'
 import ResultSummary from './Components/UpComingMatchesDetail/UpComingMatchesDetail';
+import PlayerDetails from './Components/Players/PlayerDetails';
 
 function App() {
   return (
@@ -23,10 +24,10 @@ function App() {
         <Route path='/venue' element={<Venue />}/>
         <Route path='/matches' element={<Schedule category="matches" />}/>
         <Route path='/results' element={<Result category="result" />}/>
-        <Route path='/sports' element={<Sports />}/>
+        <Route path='/players' element={<Players />}/>
         <Route path='/teams' element={<Team />}/>
-        <Route path='/upcoming-matches' element={<ResultSummary />}/>
-        <Route path='/upcoming-matches/teamName' element={<ResultSummary />}/>
+        <Route path='/matches/:upcoming' element={<ResultSummary />}/>
+        <Route path='/players/:player' element={<PlayerDetails />}/>
 
         </Routes>
         <Footer/>
