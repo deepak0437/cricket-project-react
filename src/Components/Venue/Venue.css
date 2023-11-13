@@ -1,0 +1,59 @@
+.venue-filter-options{
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    cursor: pointer;
+    animation: 1s ease-out 0s 1 slideInFromLeft;
+}
+
+@keyframes slideInFromLeft {
+    0% {
+      transform: translateX(-100%);
+    }
+    100% {
+      transform: translateX(0);
+    }
+  }
+  
+.venue-filter-options .not-active{
+    font-size: 19px;
+    font-weight: 700;
+    color: gray;
+}.venue-filter-options .set-active{
+    font-size: 19px;
+    font-weight: 700;
+}
+
+.filters-detail-stadium{
+    padding: 0px 200px;
+    padding-bottom: 100px;
+    margin-left: 70px;
+}
+
+.display-details-fields{
+    display: flex;
+    justify-content: space-between;
+}
+
+.display-details-fields .name-count{
+    display: flex;
+    gap: 20px;
+}
+
+.display-details-fields .name-count .count{
+    font-size: 20px;
+    font-weight: 900;
+    color: gray;
+}
+
+.display-details-fields .name-count .country-name{
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.display-details-fields .country{
+    text-align: left;
+    font-size: 20px;
+    font-weight: 800;
+    color: rgb(228, 56, 56);
+}

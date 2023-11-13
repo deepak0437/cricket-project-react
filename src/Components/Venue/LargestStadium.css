@@ -1,0 +1,51 @@
+.largest-stadium{
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+}
+
+.largest-stadium-page{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 50px;
+    align-items: center;
+    padding: 50px 200px;
+    animation: 1s ease-out 0s 1 slideInFromRight;
+}
+@keyframes slideInFromRight {
+    0% {
+      transform: translateX(100%);
+    }
+    100% {
+      transform: translateX(0);
+    }
+  }
+.largest-stadium-details{
+    display: flex;
+    gap: 50px;
+}
+
+.narendra-modi{
+    font-size: 48px;
+    color: rgb(228, 56, 56);
+    /* border-bottom: 1px solid lightgray; */
+
+}
+
+.largest-stadium-page hr{
+    width: 79%;
+}
+
+.narendra-modi-quotes{
+    color: gray;
+}
+
+.largest-stadium-details .stadium-format{
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.largest-stadium-details .stadium-answer{
+    color: gray;
+}
