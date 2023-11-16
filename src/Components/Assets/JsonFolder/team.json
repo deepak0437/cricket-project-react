@@ -1,20 +1,20 @@
 [
         {
             "resource": "teams",
-            "id": 1,
-            "name": "Pakistan",
-            "code": "PAK",
-            "image_path": "https://cdn.sportmonks.com/images/cricket/teams/1/1.png",
+            "id": 10,
+            "name": "India",
+            "code": "IND",
+            "image_path": "https://cdn.sportmonks.com/images/cricket/teams/10/10.png",
             "country_id": 190324,
             "national_team": true,
             "updated_at": "2018-11-29T11:47:20.000000Z"
         },
         {
             "resource": "teams",
-            "id": 10,
-            "name": "India",
-            "code": "IND",
-            "image_path": "https://cdn.sportmonks.com/images/cricket/teams/10/10.png",
+            "id": 1,
+            "name": "Pakistan",
+            "code": "PAK",
+            "image_path": "https://cdn.sportmonks.com/images/cricket/teams/1/1.png",
             "country_id": 190324,
             "national_team": true,
             "updated_at": "2018-11-29T11:47:20.000000Z"

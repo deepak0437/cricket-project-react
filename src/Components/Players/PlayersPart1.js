@@ -15,7 +15,7 @@ fewCountryId.forEach(element => {
   
 function PlayersPart1() {
   return (
-    <div>
+    <div> 
     <h1 className='players-all-content'>All Players </h1><br />
     <div className='playersData container'>
     {filteredPlayers.map((items, id) => {
