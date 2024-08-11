@@ -32,7 +32,7 @@ class PauseOnHover extends Component{
         autoplaySpeed: 3000,
         pauseOnHover: true,
       };
-
+ 
     const uniqueFixture = fixtures.filter(
             (obj, index) =>
             fixtures.findIndex((item) => item.localteam_id === obj.localteam_id && item.visitorteam_id === obj.visitorteam_id ) === index
